@@ -1,0 +1,10 @@
+
+{
+  "openPhases" : ["phaseBugReporting"],
+  "phaseBugReporting": "pe",
+  "phaseBugTrimming": "pe",
+  "phaseTeamResponse": "pe-dev-response",
+  "phaseTesterResponse": "pe",
+  "phaseModeration": "pe-tutor-moderation"
+}
+    
