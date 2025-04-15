@@ -1,6 +1,6 @@
 
 {
-  "openPhases" : [],
+  "openPhases" : ["phaseTesterResponse"],
   "phaseBugReporting": "pe",
   "phaseBugTrimming": "pe",
   "phaseTeamResponse": "pe-dev-response",
